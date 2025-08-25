@@ -1,1 +1,19 @@
+[
+  {
+    "images": [
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/apple.jpg", "word": "Apple iPhone"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/blackberry.png", "word": "Blackberry"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/nothing.jpeg", "word": "Nothing Phone"}
+    ],
+    "answer": "Smartphones Brands"
+  },
+  {
+    "images": [
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/cat.webp", "word": "Cat Fish"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/clown.avif", "word": "Clown Fish"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/gold.avif", "word": "Gold Fish"}
+    ],
+    "answer": "Types of Fish"
+  }
+]
 
