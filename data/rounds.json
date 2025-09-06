@@ -5,7 +5,7 @@
       {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/blackberry.png", "word": "Blackberry"},
       {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/nothing.jpeg", "word": "Nothing Phone"}
     ],
-    "answer": "Smartphones Brands"
+    "answer": "Smartphone Brands"
   },
   {
     "images": [
@@ -14,6 +14,13 @@
       {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/gold.avif", "word": "Gold Fish"}
     ],
     "answer": "Types of Fish"
+  },
+  {
+    "images": [
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/india.png", "word": "Mumbai Indians"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/knight.jpg", "word": "Kolkata Knight Riders"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/sunrise.jpg", "word": "Sunrisers Hyderabad"}
+    ],
+    "answer": "IPL Teams"
   }
 ]
-
