@@ -143,6 +143,7 @@
     <button onclick="checkAnswer()">Submit</button>
     <button onclick="revealAnswer()">Reveal</button>
     <button onclick="nextRound()">Next ➡</button>
+    <button onclick="goHome()">🏠 Home</button>
     <div class="result" id="result"></div>
   </div>
 
@@ -220,6 +221,10 @@
         currentRound = 0;
       }
       loadRound();
+    }
+
+    function goHome() {
+      window.location.href = "index.html";
     }
 
     // Start game
