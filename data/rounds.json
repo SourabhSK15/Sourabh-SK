@@ -31,4 +31,12 @@
     ],
     "answer": "Weight Classes"
   }
+{
+    "images": [
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/dragon.webp", "word": "Dragonfruit"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/orange.webp", "word": "Orange"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/jack.jpg", "word": "Jackfruit"}
+    ],
+    "answer": "Weight Classes"
+  }
 ]
