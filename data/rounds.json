@@ -23,4 +23,12 @@
     ],
     "answer": "IPL Teams"
   }
+ {
+    "images": [
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/light.webp", "word": "Lightweight"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/feather.webp", "word": "Featherweight"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/fly.jpg", "word": "Flyweight"}
+    ],
+    "answer": "Weight Classes"
+  }
 ]
