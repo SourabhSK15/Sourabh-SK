@@ -47,4 +47,12 @@
     ],
     "answer": "Alcohol Brands"
   }
+{
+    "images": [
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/honey.jpg", "word": "Yo Yo Honey Singh"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/king.jpg", "word": "Baadshah"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/krishna.jpg", "word": "Krishna"}
+    ],
+    "answer": "Rappers"
+  }
 ]
