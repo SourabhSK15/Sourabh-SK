@@ -13,7 +13,7 @@
       {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/clown.avif", "word": "Clown Fish"},
       {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/gold.avif", "word": "Gold Fish"}
     ],
-    "answer": "Types of Fish"
+    "answer": "Fishes"
   },
   {
     "images": [
@@ -37,6 +37,14 @@
       {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/orange.webp", "word": "Orange"},
       {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/jack.jpg", "word": "Jackfruit"}
     ],
-    "answer": "Weight Classes"
+    "answer": "Fruits"
+  }
+{
+    "images": [
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/john.jpg", "word": "Johnnie Walker"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/kingfisher.jpg", "word": "Kingfisher"},
+      {"src": "https://raw.githubusercontent.com/SourabhSK15/Sourabh-SK/main/images/monk.jpg", "word": "Old Monk"}
+    ],
+    "answer": "Alcohol Brands"
   }
 ]
